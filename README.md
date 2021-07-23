@@ -20,7 +20,7 @@
 
 [![alt text](../assets/venex_git.png?raw=true)](https://kingavatar.github.io/venex/ "Venex")
 
-This project was done for the Smart India Hackathon 2020 Finals by my Team Yolo Scan. This is a Vehicle monitoring application that detects number-plates of vehicles entering and exiting a building and monitors their activity. This repository contains my contribution to the project which was the development of the frontend and backend.
+This project was done for the Smart India Hackathon 2020 Finals by my Team Yolo Scan. This is a Vehicle monitoring application that detects number-plates of vehicles entering and exiting a building and monitors their activity. This repository contains my contribution to the project which was the development of the frontend.
 
 ## Built With
 
